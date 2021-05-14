@@ -15,3 +15,6 @@ str_list = list(map(str,input("문자를 콤마로 구분하여 입력하시오:
 print("리스트 변환",str_list,sep='\n')
 str_list.sort()
 print("정렬",str_list,sep='\n')
+
+
+print("수정?")
